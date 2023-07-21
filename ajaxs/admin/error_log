@@ -1,0 +1,10 @@
+[20-Sep-2022 14:39:15 Asia/Ho_Chi_Minh] PHP Warning:  unlink(../../): Is a directory in /home/maihuyba/public_html/ajaxs/admin/removeCategory.php on line 28
+[09-Dec-2022 21:00:19 Asia/Ho_Chi_Minh] PHP Warning:  unlink(../../assets/storage/images/category_ULKRQN.png): No such file or directory in /home/toanclon/toanclone.com/ajaxs/admin/removeCategory.php on line 28
+[09-Dec-2022 21:00:21 Asia/Ho_Chi_Minh] PHP Warning:  unlink(../../assets/storage/images/category_ETCJP4.png): No such file or directory in /home/toanclon/toanclone.com/ajaxs/admin/removeCategory.php on line 28
+[09-Dec-2022 21:00:24 Asia/Ho_Chi_Minh] PHP Warning:  unlink(../../assets/storage/images/category_V2FDY6.png): No such file or directory in /home/toanclon/toanclone.com/ajaxs/admin/removeCategory.php on line 28
+[17-Mar-2023 14:48:05 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dominhtr/public_html/libs/db.php on line 31
+[17-Mar-2023 14:48:05 UTC] PHP Notice:  date_default_timezone_set(): Timezone ID '' is invalid in /home/dominhtr/public_html/libs/helper.php on line 7
+[17-Mar-2023 14:48:05 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dominhtr/public_html/libs/db.php on line 31
+[17-Mar-2023 14:48:05 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dominhtr/public_html/libs/db.php on line 31
+[17-Mar-2023 14:48:05 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dominhtr/public_html/libs/db.php on line 31
+[17-Mar-2023 14:50:22 UTC] PHP Notice:  date_default_timezone_set(): Timezone ID '' is invalid in /home/dominhtr/public_html/libs/helper.php on line 7

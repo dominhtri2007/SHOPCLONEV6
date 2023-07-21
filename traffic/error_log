@@ -1,0 +1,97 @@
+[17-Dec-2022 15:59:38 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'tatmtoolnet_traffic'@'localhost' (using password: YES) in /home/tricoder/public_html/config.php on line 5
+[18-Dec-2022 05:21:03 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/tricoder/public_html/config.php on line 5
+[18-Dec-2022 05:21:15 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/tricoder/public_html/config.php on line 5
+[18-Dec-2022 05:22:14 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/tricoder/public_html/config.php on line 5
+[22-Dec-2022 14:14:48 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/tricoder/public_html/config.php on line 5
+[22-Dec-2022 14:15:07 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/tricoder/public_html/config.php on line 5
+[22-Dec-2022 14:15:07 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/tricoder/public_html/config.php on line 5
+[22-Dec-2022 14:15:24 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/tricoder/public_html/config.php on line 5
+[22-Dec-2022 14:15:31 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/tricoder/public_html/config.php on line 5
+[22-Dec-2022 14:15:40 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/tricoder/public_html/config.php on line 5
+[22-Dec-2022 14:16:00 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/tricoder/public_html/config.php on line 5
+[22-Dec-2022 14:16:13 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/tricoder/public_html/config.php on line 5
+[22-Dec-2022 14:16:23 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/tricoder/public_html/config.php on line 5
+[22-Dec-2022 14:16:24 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/tricoder/public_html/config.php on line 5
+[22-Dec-2022 14:16:28 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/tricoder/public_html/config.php on line 5
+[22-Dec-2022 14:16:36 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/tricoder/public_html/config.php on line 5
+[22-Dec-2022 14:16:43 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/tricoder/public_html/config.php on line 5
+[22-Dec-2022 14:16:49 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/tricoder/public_html/config.php on line 5
+[22-Dec-2022 14:16:58 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/tricoder/public_html/config.php on line 5
+[22-Dec-2022 14:17:03 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/tricoder/public_html/config.php on line 5
+[22-Dec-2022 14:17:11 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/tricoder/public_html/config.php on line 5
+[22-Dec-2022 14:17:19 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/tricoder/public_html/config.php on line 5
+[22-Dec-2022 14:17:20 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/tricoder/public_html/config.php on line 5
+[22-Dec-2022 14:17:21 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/tricoder/public_html/config.php on line 5
+[22-Dec-2022 14:17:27 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/tricoder/public_html/config.php on line 5
+[22-Dec-2022 14:17:30 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/tricoder/public_html/config.php on line 5
+[22-Dec-2022 14:17:33 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/tricoder/public_html/config.php on line 5
+[22-Dec-2022 14:17:37 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/tricoder/public_html/config.php on line 5
+[22-Dec-2022 14:17:37 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/tricoder/public_html/config.php on line 5
+[22-Dec-2022 14:17:39 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/tricoder/public_html/config.php on line 5
+[22-Dec-2022 14:17:42 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/tricoder/public_html/config.php on line 5
+[22-Dec-2022 14:17:51 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/tricoder/public_html/config.php on line 5
+[22-Dec-2022 14:17:56 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/tricoder/public_html/config.php on line 5
+[22-Dec-2022 14:17:57 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/tricoder/public_html/config.php on line 5
+[22-Dec-2022 14:17:58 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/tricoder/public_html/config.php on line 5
+[22-Dec-2022 14:18:03 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/tricoder/public_html/config.php on line 5
+[22-Dec-2022 14:18:09 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/tricoder/public_html/config.php on line 5
+[22-Dec-2022 14:18:15 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/tricoder/public_html/config.php on line 5
+[22-Dec-2022 14:18:17 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/tricoder/public_html/config.php on line 5
+[22-Dec-2022 14:18:17 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/tricoder/public_html/config.php on line 5
+[22-Dec-2022 14:18:20 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/tricoder/public_html/config.php on line 5
+[22-Dec-2022 14:18:27 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/tricoder/public_html/config.php on line 5
+[22-Dec-2022 14:18:33 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/tricoder/public_html/config.php on line 5
+[22-Dec-2022 14:18:35 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/tricoder/public_html/config.php on line 5
+[22-Dec-2022 14:18:39 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/tricoder/public_html/config.php on line 5
+[22-Dec-2022 14:18:45 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/tricoder/public_html/config.php on line 5
+[22-Dec-2022 14:18:52 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/tricoder/public_html/config.php on line 5
+[22-Dec-2022 14:18:54 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/tricoder/public_html/config.php on line 5
+[22-Dec-2022 14:18:55 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/tricoder/public_html/config.php on line 5
+[22-Dec-2022 14:19:00 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/tricoder/public_html/config.php on line 5
+[22-Dec-2022 14:19:06 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/tricoder/public_html/config.php on line 5
+[22-Dec-2022 14:19:12 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/tricoder/public_html/config.php on line 5
+[22-Dec-2022 14:19:13 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/tricoder/public_html/config.php on line 5
+[22-Dec-2022 14:19:14 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/tricoder/public_html/config.php on line 5
+[22-Dec-2022 14:19:17 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/tricoder/public_html/config.php on line 5
+[22-Dec-2022 14:19:17 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/tricoder/public_html/config.php on line 5
+[22-Dec-2022 14:19:22 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/tricoder/public_html/config.php on line 5
+[22-Dec-2022 14:19:26 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/tricoder/public_html/config.php on line 5
+[22-Dec-2022 14:19:30 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/tricoder/public_html/config.php on line 5
+[22-Dec-2022 14:32:05 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): No such file or directory in /home/tricoder/public_html/config.php on line 5
+[22-Dec-2022 14:32:09 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): No such file or directory in /home/tricoder/public_html/config.php on line 5
+[22-Dec-2022 14:32:10 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): No such file or directory in /home/tricoder/public_html/config.php on line 5
+[22-Dec-2022 14:32:10 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): No such file or directory in /home/tricoder/public_html/config.php on line 5
+[22-Dec-2022 14:32:11 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): No such file or directory in /home/tricoder/public_html/config.php on line 5
+[22-Dec-2022 14:32:13 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): No such file or directory in /home/tricoder/public_html/config.php on line 5
+[22-Dec-2022 14:32:15 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): No such file or directory in /home/tricoder/public_html/config.php on line 5
+[22-Dec-2022 14:33:44 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): No such file or directory in /home/tricoder/public_html/config.php on line 5
+[22-Dec-2022 14:33:45 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): No such file or directory in /home/tricoder/public_html/config.php on line 5
+[22-Dec-2022 14:33:45 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): No such file or directory in /home/tricoder/public_html/config.php on line 5
+[22-Dec-2022 14:33:46 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): No such file or directory in /home/tricoder/public_html/config.php on line 5
+[22-Dec-2022 14:33:46 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): No such file or directory in /home/tricoder/public_html/config.php on line 5
+[22-Dec-2022 14:33:47 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): No such file or directory in /home/tricoder/public_html/config.php on line 5
+[22-Dec-2022 14:33:47 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): No such file or directory in /home/tricoder/public_html/config.php on line 5
+[22-Dec-2022 14:33:47 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): No such file or directory in /home/tricoder/public_html/config.php on line 5
+[22-Dec-2022 14:33:48 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): No such file or directory in /home/tricoder/public_html/config.php on line 5
+[22-Dec-2022 14:33:48 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): No such file or directory in /home/tricoder/public_html/config.php on line 5
+[22-Dec-2022 14:33:48 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): No such file or directory in /home/tricoder/public_html/config.php on line 5
+[22-Dec-2022 14:33:49 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): No such file or directory in /home/tricoder/public_html/config.php on line 5
+[22-Dec-2022 14:33:49 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): No such file or directory in /home/tricoder/public_html/config.php on line 5
+[22-Dec-2022 14:33:49 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): No such file or directory in /home/tricoder/public_html/config.php on line 5
+[22-Dec-2022 14:33:49 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): No such file or directory in /home/tricoder/public_html/config.php on line 5
+[22-Dec-2022 14:33:50 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): No such file or directory in /home/tricoder/public_html/config.php on line 5
+[22-Dec-2022 14:33:50 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): No such file or directory in /home/tricoder/public_html/config.php on line 5
+[22-Dec-2022 14:33:50 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): No such file or directory in /home/tricoder/public_html/config.php on line 5
+[22-Dec-2022 14:33:51 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): No such file or directory in /home/tricoder/public_html/config.php on line 5
+[22-Dec-2022 14:33:51 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): No such file or directory in /home/tricoder/public_html/config.php on line 5
+[22-Dec-2022 14:33:51 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): No such file or directory in /home/tricoder/public_html/config.php on line 5
+[22-Dec-2022 14:33:51 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): No such file or directory in /home/tricoder/public_html/config.php on line 5
+[22-Dec-2022 14:33:52 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): No such file or directory in /home/tricoder/public_html/config.php on line 5
+[22-Dec-2022 14:33:52 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): No such file or directory in /home/tricoder/public_html/config.php on line 5
+[23-Dec-2022 20:38:49 Asia/Ho_Chi_Minh] PHP Warning:  Invalid argument supplied for foreach() in /home/ptangtrafficonli/public_html/vn/index.php on line 336
+[23-Dec-2022 20:38:51 Asia/Ho_Chi_Minh] PHP Warning:  Invalid argument supplied for foreach() in /home/ptangtrafficonli/public_html/vn/index.php on line 336
+[23-Dec-2022 20:38:57 Asia/Ho_Chi_Minh] PHP Warning:  Invalid argument supplied for foreach() in /home/ptangtrafficonli/public_html/vn/index.php on line 336
+[23-Dec-2022 20:39:36 Asia/Ho_Chi_Minh] PHP Warning:  Invalid argument supplied for foreach() in /home/ptangtrafficonli/public_html/vn/index.php on line 336
+[23-Dec-2022 20:40:12 Asia/Ho_Chi_Minh] PHP Warning:  Invalid argument supplied for foreach() in /home/ptangtrafficonli/public_html/vn/index.php on line 336
+[23-Dec-2022 20:40:53 Asia/Ho_Chi_Minh] PHP Warning:  Invalid argument supplied for foreach() in /home/ptangtrafficonli/public_html/vn/index.php on line 336
+[23-Dec-2022 20:42:10 Asia/Ho_Chi_Minh] PHP Warning:  Invalid argument supplied for foreach() in /home/ptangtrafficonli/public_html/vn/index.php on line 336

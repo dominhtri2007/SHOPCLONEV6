@@ -1,0 +1,13 @@
+[31-Dec-2022 21:01:25 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/toanclon/toanclone.com/cron/service-otp/create.php on line 30
+[31-Dec-2022 21:01:25 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/toanclon/toanclone.com/cron/service-otp/create.php on line 33
+[31-Dec-2022 21:01:25 Asia/Ho_Chi_Minh] PHP Warning:  Invalid argument supplied for foreach() in /home/toanclon/toanclone.com/cron/service-otp/create.php on line 33
+[02-Jan-2023 20:37:36 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/toanclon/toanclone.com/cron/service-otp/create.php on line 30
+[02-Jan-2023 20:37:36 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/toanclon/toanclone.com/cron/service-otp/create.php on line 33
+[02-Jan-2023 20:37:36 Asia/Ho_Chi_Minh] PHP Warning:  Invalid argument supplied for foreach() in /home/toanclon/toanclone.com/cron/service-otp/create.php on line 33
+[03-Jan-2023 19:49:10 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/toanclon/toanclone.com/cron/service-otp/create.php on line 30
+[03-Jan-2023 19:49:10 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/toanclon/toanclone.com/cron/service-otp/create.php on line 33
+[03-Jan-2023 19:49:10 Asia/Ho_Chi_Minh] PHP Warning:  Invalid argument supplied for foreach() in /home/toanclon/toanclone.com/cron/service-otp/create.php on line 33
+[04-Jan-2023 20:06:00 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/toanclon/toanclone.com/cron/service-otp/create.php on line 30
+[04-Jan-2023 20:06:00 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/toanclon/toanclone.com/cron/service-otp/create.php on line 33
+[04-Jan-2023 20:06:00 Asia/Ho_Chi_Minh] PHP Warning:  Invalid argument supplied for foreach() in /home/toanclon/toanclone.com/cron/service-otp/create.php on line 33
+[04-Jan-2023 23:04:31 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_connect(): (HY000/2002): No such file or directory in /home/toanclon/toanclone.com/libs/db.php on line 17
